@@ -72,7 +72,7 @@ Previously, this sample app was focused on demonstrating best practices for
 multiple Jetpack libraries. However, this is no longer the case and development
 will instead be focused on how to adopt Compose in an existing View-based app.
 So, there are no plans to implement features outside of this scope. Keep this
-in mind when making contributions to this library.
+in mind when making contributions to this library..
 
 Support
 -------
